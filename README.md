@@ -21,6 +21,8 @@ All you need to do is:
 
 Now application is ready to run - simply execute *"SYTK Launcher.exe"*.
 
+> Note: If you are a bit more advanced user and you know how JAR's work - as long, as you have installed updated Java packages, you can delete JRE directory that is included with application.
+
 # Instruction: basic configuration
 
 Simple application configuration goes like this:
@@ -29,8 +31,6 @@ Simple application configuration goes like this:
 3. Press *"Set shared deck directory"* and then choose a directory where shared deck files will be kept (cloud based directories shared with friends, like those shared via Dropbox, a recommended)
 
 Now application is ready to be used.
-
-> Note: If you are a bit more advanced user and you know how JAR's work - as long, as you have installed updated Java packages, you can delete JRE directory that is included with application
 
 # Instruction: basic usage explanation
 
