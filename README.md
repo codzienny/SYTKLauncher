@@ -30,6 +30,8 @@ Simple application configuration goes like this:
 
 Now application is ready to be used.
 
+> Note: If you are a bit more advanced user and you know how JAR's work - as long, as you have installed updated Java packages, you can delete JRE directory that is included with application
+
 # Instruction: basic usage explanation
 
 ***Deck swapping***
