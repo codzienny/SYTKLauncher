@@ -1,9 +1,9 @@
 # SYTK Launcher - what is it?
 
-SYTK Launcher is small application designed to allow easy management of decks and sharing those through external directories.  It's designed to be compatible with ProjectIgnis, but also can be used for other purposes.
+SYTK Launcher is small application designed to allow easy management of decks and sharing those through external directories.  It's designed to be compatible with [ProjectIgnis](https://github.com/edo9300/edopro), but also can be used for other purposes.
 
-ProjectIgnis: [https://github.com/edo9300/edopro](https://github.com/edo9300/edopro)
-
+![Application preview](https://raw.githubusercontent.com/codzienny/SYTKLauncher/main/screenshots/screenshot%20-%20usage%20expectation.png)
+> Application preview - can be seen in bottom left corner
 
 # Contributing
 
